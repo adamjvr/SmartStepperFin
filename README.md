@@ -8,3 +8,15 @@ Specs:
 - ML0516VLF4 ARM Cortex M0+ 48MHZ QFN 24
 - Quandrature Encoder Port
 - Expansion header for dev/hacking
+
+
+Pictures
+
+2D Rendering of V1
+
+![First Pass PCB V1](PCB/StepperFin2D.png)
+
+
+3D Rendering of V1
+
+![First Pass PCB V1](PCB/StepperFin3D.png)
