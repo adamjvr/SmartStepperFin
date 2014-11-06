@@ -14,9 +14,9 @@ Pictures
 
 2D Rendering of V1
 
-![First Pass PCB V1](PCB/StepperFin2D.png)
+![First Pass PCB V1](PCB/SmartStepper2D.png)
 
 
 3D Rendering of V1
 
-![First Pass PCB V1](PCB/StepperFin3D.png)
+![First Pass PCB V1](PCB/SmartStepper3D.png)
